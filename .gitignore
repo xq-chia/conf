@@ -1,0 +1,17 @@
+dconf/
+enchant/
+evolution/
+gedit/
+gnome-session/
+goa-1.0/
+gtk-3.0/
+ibus/
+nautilus/
+nvim/
+nvim-personal/
+pulse/
+update-notifier/
+gnome-initial-setup-done
+user-dirs.dirs
+user-dirs.locale
+.gsd-keyboard.settings-ported
